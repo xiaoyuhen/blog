@@ -24,3 +24,9 @@ twitter:
 google_plus:
 fb_admins:
 fb_app_id:
+
+nav:
+  Home: /
+  About: /about/
+  Writing: /posts/
+  Projects: https://github.com/xiaoyuhen
