@@ -69,4 +69,4 @@ theme: cactus-white
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: ssh//git@34.80.68.184/home/git/blog.git
+  repo: ssh://git@34.80.68.184/home/git/blog.git
