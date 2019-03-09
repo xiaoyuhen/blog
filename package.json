@@ -22,7 +22,8 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "hexo g && hexo d"
+      "pre-commit": "hexo g",
+      "pre-push": "hexo d"
     }
   }
 }
