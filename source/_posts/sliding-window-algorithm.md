@@ -1,4 +1,4 @@
-title: sliding window algorithm
+title: 滑动窗口算法（sliding window algorithm）
 date: 2019-03-12 00:47:04
 tags:
 ---
