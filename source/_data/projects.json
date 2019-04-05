@@ -1,0 +1,12 @@
+[
+  {
+     "name":"Griffith",
+     "url":"https://github.com/zhihu/griffith",
+     "desc":"A React-based web video player that makes streaming easy"
+  },
+  {
+     "name":"jest-puppeteer",
+     "url":"https://github.com/smooth-code/jest-puppeteer",
+     "desc":"Run your tests using Jest & Puppeteer 🎪✨"
+  }
+]

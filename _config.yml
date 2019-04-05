@@ -37,11 +37,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
-highlight:
-  enable: true
-  line_number: true
-  auto_detect: true
-  tab_replace:
+highlight: atelier-heath-dark
 
 # Category & Tag
 default_category: uncategorized
@@ -73,3 +69,6 @@ deploy:
 
 theme_config:
   colorscheme: white
+
+social_links:
+  github: https://github.com/xiaoyuhen
