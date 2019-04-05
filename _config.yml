@@ -63,10 +63,13 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: cactus-white
+theme: cactus
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: ssh://git@34.80.68.184/home/git/blog.git
+
+theme_config:
+  colorscheme: white
