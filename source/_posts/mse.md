@@ -71,7 +71,7 @@ MSE 提供了这种可能。
 
 如果你访问一些主流的视频网站时，仔细观察一下他们 video 标签会发现其中的  src 属性很奇怪。
 
-![](https://pic3.zhimg.com/80/v2-97caac0651244b2d4e58bc1dc7fe98a5_hd.jpg)
+![](../../../../static/v2-97caac0651244b2d4e58bc1dc7fe98a5_hd.jpg)
 
 这不是普通的 URL ，而是 Blob URL，它允许通过 Blob 对象下载二进制数据。
 有了 Blob URL ，我们可以动态的往 `<video>` 标签中塞入视频二进制数据，来实现一些功能。
@@ -80,7 +80,7 @@ MSE 提供了这种可能。
 
 >You can almost think of MSE as a chain
 
-![](https://pic2.zhimg.com/80/v2-2ac9f7433a43b6ef7c245787c1395d11_hd.jpg)
+![](../../../../static/v2-2ac9f7433a43b6ef7c245787c1395d11_hd.jpg)
 
 - 通过 Range 请求拉取数据。
 - 通过 MediaSource 处理数据。

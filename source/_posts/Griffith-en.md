@@ -3,7 +3,7 @@ date: 2019-04-05 19:42:41
 tags:
 ---
 
-![Griffith](https://cdn-images-1.medium.com/max/1600/1*Ra5lZXCyVUufV1WUCj88Rw.jpeg)
+![Griffith](../../../../static/banner.jpg)
 
 # What is Griffith?
 

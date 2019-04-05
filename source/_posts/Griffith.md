@@ -3,7 +3,7 @@ date: 2019-04-05 19:44:46
 tags:
 ---
 
-![Griffith](https://cdn-images-1.medium.com/max/1600/1*Ra5lZXCyVUufV1WUCj88Rw.jpeg)
+![Griffith](../../../../static/banner.jpg)
 
 # 知乎视频播放器 Griffith 开源介绍
 
