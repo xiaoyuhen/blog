@@ -9,7 +9,7 @@ I write code. All kinds, but mostly JavaScript. Currently working on zhihu for w
 
 I live in Beijing, China with my Girlfriend Dang Han.
 
-Here are some things I made and maintain
+Here are some things I made or maintain
 
 - [Griffith](https://github.com/zhihu/griffith) - A React-based web video player that makes streaming easy
 - [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) - Run your tests using Jest & Puppeteer 🎪✨
