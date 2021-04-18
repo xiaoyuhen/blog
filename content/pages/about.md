@@ -5,7 +5,7 @@ template: "page"
 <img style="text-align: center" src='../assets/avatar.jpeg' />
 <h1 style="text-align: center">Hi, I'm Tianxiao Wang</h1>
 
-I write code. All kinds, but mostly JavaScript. Currently working on alibaba for software engineer.
+I write code. All kinds, but mostly JavaScript. Currently working on alibaba for software development.
 
 I live in Beijing, China with my Fiancée Dang Han.
 
