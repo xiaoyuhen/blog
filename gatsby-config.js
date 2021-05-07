@@ -9,6 +9,8 @@ module.exports = {
     siteUrl: siteConfig.url,
     social: siteConfig.author.social,
     disqusShortname: siteConfig.disqusShortname,
+    // 百度站长工具
+    'baidu-site-verification': 'code-RBy5IGAkHd',
   },
   pathPrefix: siteConfig.pathPrefix, // TODO: Add path prefix as github repository name to deploy to github pages.
   plugins: [
